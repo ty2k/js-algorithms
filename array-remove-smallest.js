@@ -1,6 +1,6 @@
 
 // Given an array of integers, return the array with the smallest value removed
-function ArrRemoveSmallest(numbers) {
+function arrRemoveSmallest(numbers) {
   let low = {
     'number': Infinity,
     'index': 0
@@ -16,4 +16,4 @@ function ArrRemoveSmallest(numbers) {
   return numbers.slice(0, low['index']).concat(numbers.slice(low['index'] +1))
 }
 
-module.exports = ArrRemoveSmallest
+module.exports = arrRemoveSmallest
