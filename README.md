@@ -28,6 +28,11 @@ Returns the [factorial](https://en.wikipedia.org/wiki/Factorial) if given a non-
 Given a number and a rounding digit (including negatives), returns the rounded value. From [here](https://stackoverflow.com/a/21323330).
 
 
+## Number: Round to fixed decimal place - number-round-to-decimal.js
+
+Given a number and a positive decimal count, returns the rounded value. From [here](https://stackoverflow.com/a/21323330).
+
+
 ## String: Check palindrome - string-check-palindrome.js
 
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
