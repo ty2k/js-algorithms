@@ -1,6 +1,6 @@
 # js-algorithms
 
-A collection of JavaScript algorithm solutions. Use with Node's `require` syntax.
+A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
 
 ## Array: filter strings out - array-filter-strings-out.js
