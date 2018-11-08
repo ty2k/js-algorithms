@@ -1,5 +1,6 @@
 
-// Returns number rounded to a fixed decimal place, given number and positive decimal
+// Returns a string representing the input number rounded to a fixed point,
+// given a number and a fixed-point decimal position.
 function roundToDecimal(value, dec) {
   value = +value
 
