@@ -30,7 +30,7 @@ Given a number and a rounding digit (including negatives), returns the rounded v
 
 ## Number: Round to fixed decimal place - number-round-to-decimal.js
 
-Given a number and a positive decimal count, returns the rounded value. From [here](https://stackoverflow.com/a/21323330).
+Given a number and a positive decimal count, returns a string representing number rounded to a fixed-point value. From [here](https://stackoverflow.com/a/21323330).
 
 
 ## String: Check palindrome - string-check-palindrome.js
