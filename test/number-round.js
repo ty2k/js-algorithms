@@ -19,14 +19,14 @@ function testRound() {
     [12345.12345, 1, 12345.1],
     [12345.12345, 2, 12345.12],
     [12345.12345, 3, 12345.123],
-    [12345.12345, 4, 12345.1234],
+    [12345.12345, 4, 12345.1235],
     [12345.12345, 5, 12345.12345],
   ]
 
   console.log('\nround() should return NaN when the first or second parameter is invalid.\n')
 
   invalidTestCases.forEach((test) => {
-    console.log(`Expect round(${test[0]}) to return NaN when attempting to round to ${test[1]} decimal points.`)
+    console.log(`Expect round(${test[0]}, ${test[1]}) to return NaN.`)
 
     if (isNaN(round(test[0], test[1]))) {
       console.log('Passed.')
@@ -38,7 +38,7 @@ function testRound() {
   console.log('\nround() should return valid input rounded to the decimal position provided as the second parameter.\n')
 
   validTestCases.forEach((test) => {
-    console.log(`Expect round(${test[0]}) to return ${test[2]} rounded to the ${test[1]} decimal position.`)
+    console.log(`Expect round(${test[0]}, ${test[1]}) to return ${test[2]}.`)
 
     if (round(test[0], test[1]) === test[2]) {
       console.log('Passed.')
