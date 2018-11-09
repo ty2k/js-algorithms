@@ -4,7 +4,7 @@ function arrFilterNumbers(arr) {
   const filtered = []
 
   arr.forEach((x) => {
-    if (typeof x === 'number') {
+    if (!isNaN(x) && typeof x === 'number') {
       filtered.push(x)
     }
   })
