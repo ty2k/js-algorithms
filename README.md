@@ -3,9 +3,9 @@
 A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
 
-## Array: filter strings out - array-filter-strings-out.js
+## Array: filter numbers - array-filter-numbers.js
 
-Given an array of numbers and strings, returns a new array with only numbers.
+Given an array of mixed types, returns a new array with only numbers.
 
 
 ## Array: remove smallest value - array-remove-smallest.js
