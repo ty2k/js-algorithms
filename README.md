@@ -36,3 +36,8 @@ Given a number and a positive decimal count, returns a string representing numbe
 ## String: Check palindrome - string-check-palindrome.js
 
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
+
+
+## String: Leftpad - string-leftpad.js
+
+Given an input string (or thing), desired length, and padding character, returns a string left-padded by the character up to the desired length.
