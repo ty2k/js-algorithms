@@ -33,6 +33,11 @@ Given a number and a rounding digit (including negatives), returns the rounded v
 Given a number and a positive decimal count, returns a string representing number rounded to a fixed-point value. From [here](https://stackoverflow.com/a/21323330).
 
 
+## String: Build palindrome - string-build-palindrome.js
+
+Given an input string, returns the smallest possible [palindrome](https://en.wikipedia.org/wiki/Palindrome) that can be built off of it.
+
+
 ## String: Check if "beautiful" - string-check-is-beautiful.js
 
 Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade](https://app.codesignal.com/arcade).
@@ -43,6 +48,16 @@ Returns `true` if given a string where each later letter in the alphabet appears
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 
 
+## String: Find email domain - string-find-email-domain.js
+
+Given an email address, returns the domain part (everything after the `@` symbol).
+
+
 ## String: Leftpad - string-leftpad.js
 
 Given an input string (or thing), desired length, and padding character, returns a string left-padded by the character up to the desired length.
+
+
+## String: Reverse - string-reverse.js
+
+Given an input string, returns the string reverse using the array split/reverse/join method.
