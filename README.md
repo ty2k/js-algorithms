@@ -43,6 +43,11 @@ Returns `true` if given a string where each later letter in the alphabet appears
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 
 
+## String: Find email domain - string-find-email-domain.js
+
+Given an email address, returns the domain part (everything after the `@` symbol).
+
+
 ## String: Leftpad - string-leftpad.js
 
 Given an input string (or thing), desired length, and padding character, returns a string left-padded by the character up to the desired length.
