@@ -51,3 +51,8 @@ Given an email address, returns the domain part (everything after the `@` symbol
 ## String: Leftpad - string-leftpad.js
 
 Given an input string (or thing), desired length, and padding character, returns a string left-padded by the character up to the desired length.
+
+
+## String: Reverse - string-reverse.js
+
+Given an input string, returns the string reverse using the array split/reverse/join method.
