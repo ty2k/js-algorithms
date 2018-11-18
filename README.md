@@ -33,6 +33,11 @@ Given a number and a rounding digit (including negatives), returns the rounded v
 Given a number and a positive decimal count, returns a string representing number rounded to a fixed-point value. From [here](https://stackoverflow.com/a/21323330).
 
 
+## String: Build palindrome - string-build-palindrome.js
+
+Given an input string, returns the smallest possible [palindrome](https://en.wikipedia.org/wiki/Palindrome) that can be built off of it.
+
+
 ## String: Check if "beautiful" - string-check-is-beautiful.js
 
 Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade](https://app.codesignal.com/arcade).
