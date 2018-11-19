@@ -3,6 +3,11 @@
 A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
 
+## Array: election winners - array-election-winners.js
+
+Given an array of vote counts for election candidates, and a total number of outstanding uncounted votes, returns the number of potential election winners. From [CodeFights Arcade 46](https://app.codesignal.com/arcade).
+
+
 ## Array: filter numbers - array-filter-numbers.js
 
 Given an array of mixed types, returns a new array with only numbers.
@@ -40,7 +45,7 @@ Given an input string, returns the smallest possible [palindrome](https://en.wik
 
 ## String: Check if "beautiful" - string-check-is-beautiful.js
 
-Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade](https://app.codesignal.com/arcade).
+Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade 43](https://app.codesignal.com/arcade).
 
 
 ## String: Check palindrome - string-check-palindrome.js
