@@ -48,6 +48,11 @@ Given an input string, returns the smallest possible [palindrome](https://en.wik
 Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade 43](https://app.codesignal.com/arcade).
 
 
+## String: Check MAC address - string-check-mac-address.js
+
+Returns `true` if given a valid [MAC address](https://en.wikipedia.org/wiki/MAC_address) string.
+
+
 ## String: Check palindrome - string-check-palindrome.js
 
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
