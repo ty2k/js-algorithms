@@ -43,6 +43,11 @@ Given a number and a positive decimal count, returns a string representing numbe
 Given an input string, returns the smallest possible [palindrome](https://en.wikipedia.org/wiki/Palindrome) that can be built off of it.
 
 
+## String: Check digit - string-check-digit.js
+
+Returns `true` if given a string or number that's a valid digit character.
+
+
 ## String: Check if "beautiful" - string-check-is-beautiful.js
 
 Returns `true` if given a string where each later letter in the alphabet appears as frequently or more than each earlier letter. From [CodeFights Arcade 43](https://app.codesignal.com/arcade).
