@@ -63,6 +63,11 @@ Returns `true` if given a valid [MAC address](https://en.wikipedia.org/wiki/MAC_
 Returns `true` if given a string that's a valid [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 
 
+## String: Chess knight - string-chess-knight.js
+
+Given a knight's position on a chess board in chess notation, returns the number of possible moves it can make. From [CodeFights Arcade 50](https://app.codesignal.com/arcade)
+
+
 ## String: Find email domain - string-find-email-domain.js
 
 Given an email address, returns the domain part (everything after the `@` symbol).
