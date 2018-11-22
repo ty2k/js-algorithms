@@ -88,6 +88,11 @@ Given an input string (or thing), desired length, and padding character, returns
 Given an input string, returns the string encoded with digits representing repeating characters (ex: `'aaa'` becomes `'3a'`). From [CodeFights Arcade 49](https://app.codesignal.com/arcade).
 
 
+## String: Longest word - string-longest-word.js
+
+Given an input string, returns the longest word (`a-z` sequence) in the sequence.
+
+
 ## String: Reverse - string-reverse.js
 
 Given an input string, returns the string reverse using the array split/reverse/join method.
