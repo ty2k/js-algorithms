@@ -23,6 +23,11 @@ Given an array of integers, returns a new array with the smallest value removed.
 Returns `true` if given a valid [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm) number.
 
 
+## Integer: Delete digit - integer-delete-digit.js
+
+Given an input integer, returns the largest possible integer that can be made by deleting a single digit.
+
+
 ## Integer: Factorial - integer-factorial.js
 
 Returns the [factorial](https://en.wikipedia.org/wiki/Factorial) if given a non-negative integer.
