@@ -3,17 +3,22 @@
 A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
 
-## Array: election winners - array-election-winners.js
+## Array: Different Squares - array-different-squares.js
+
+Given a matrix of single digits represented by a two-dimensional array, returns a count of the number of unique 2x2 squares inside the matrix. From [CodeFights Arcade 55](https://app.codesignal.com/arcade).
+
+
+## Array: Election winners - array-election-winners.js
 
 Given an array of vote counts for election candidates, and a total number of outstanding uncounted votes, returns the number of potential election winners. From [CodeFights Arcade 46](https://app.codesignal.com/arcade).
 
 
-## Array: filter numbers - array-filter-numbers.js
+## Array: Filter numbers - array-filter-numbers.js
 
 Given an array of mixed types, returns a new array with only numbers.
 
 
-## Array: remove smallest value - array-remove-smallest.js
+## Array: Remove smallest value - array-remove-smallest.js
 
 Given an array of integers, returns a new array with the smallest value removed.
 
