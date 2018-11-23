@@ -98,6 +98,11 @@ Given an input string, returns the longest word (`a-z` sequence) in the sequence
 Given an input string, returns the string reverse using the array split/reverse/join method.
 
 
+## String: Sum up numbers - string-sum-up-numbers.js
+
+Given an input string, returns the sum of any numbers found in the string, or zero.
+
+
 ## String: Valid time - string-valid-time.js
 
 Returns `true` if given a string representing a valid 24 hour time in the form `HH:MM`.
