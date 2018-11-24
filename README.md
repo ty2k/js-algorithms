@@ -13,6 +13,11 @@ Given a matrix of single digits represented by a two-dimensional array, returns 
 Given an array of vote counts for election candidates, and a total number of outstanding uncounted votes, returns the number of potential election winners. From [CodeFights Arcade 46](https://app.codesignal.com/arcade).
 
 
+## Array: File naming - array-file-naming.js
+
+Given an array of desired filenames in the order in which they are to be saved, returns a new array with duplicate file names appended with a version number. From [CodeFights Arcade 57](https://app.codesignal.com/arcade).
+
+
 ## Array: Filter numbers - array-filter-numbers.js
 
 Given an array of mixed types, returns a new array with only numbers.
