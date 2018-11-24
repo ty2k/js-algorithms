@@ -33,6 +33,11 @@ Returns `true` if given a valid [Luhn](https://en.wikipedia.org/wiki/Luhn_algori
 Given an input integer, returns the largest possible integer that can be made by deleting a single digit.
 
 
+## Integer: Digits product - integer-digits-product.js
+
+Given an input integer, returns the smallest possible integer whose digits produce the product when multiplied. From [CodeFights Arcade 56](https://app.codesignal.com/arcade).
+
+
 ## Integer: Factorial - integer-factorial.js
 
 Returns the [factorial](https://en.wikipedia.org/wiki/Factorial) if given a non-negative integer.
