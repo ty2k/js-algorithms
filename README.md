@@ -108,6 +108,11 @@ Given an input string, returns the string encoded with digits representing repea
 Given an input string, returns the longest word (`a-z` sequence) in the sequence.
 
 
+## String: Message from binary code - string-from-binary.js
+
+Given an input string of binary, returns a translated string of plain text ASCII.
+
+
 ## String: Reverse - string-reverse.js
 
 Given an input string, returns the string reverse using the array split/reverse/join method.
