@@ -3,6 +3,11 @@
 A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
 
+## Array: Check Sudoku - array-check-sudoku.js
+
+Given a Sudoku matrix (a 9x9 two-dimensional array filled with digits), returns `true` if the digits in the matrix represent a valid Sudoku solution.
+
+
 ## Array: Different Squares - array-different-squares.js
 
 Given a matrix of single digits represented by a two-dimensional array, returns a count of the number of unique 2x2 squares inside the matrix. From [CodeFights Arcade 55](https://app.codesignal.com/arcade).
