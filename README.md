@@ -48,6 +48,11 @@ Given an input integer, returns the smallest possible integer whose digits produ
 Returns the [factorial](https://en.wikipedia.org/wiki/Factorial) if given a non-negative integer.
 
 
+## Integer: Spiral numbers - integer-spiral-numbers.js
+
+Given an integer `n`, returns a two-dimensional array representing an matrix of size `n * n` filled with integers counting up from 1 in a spiral design, starting from the top left corner and spiraling in clockwise. From [CodeFights Arcade 59](https://app.codesignal.com/arcade).
+
+
 ## Number: Round - number-round.js
 
 Given a number and a rounding digit (including negatives), returns the rounded value. From [here](https://stackoverflow.com/a/21323330).
