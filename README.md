@@ -2,6 +2,10 @@
 
 A collection of JavaScript algorithm solutions. Use with Node's `require()` syntax. Tests are available in the `./test/` folder.
 
+## Array: Binary search tree depth - array-binary-search-tree-depth.js
+
+Given an array of values, this function creates a binary search tree and then returns an integer representing the depth of the tree (levels of nodes).
+
 
 ## Array: Check Sudoku - array-check-sudoku.js
 
