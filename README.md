@@ -42,6 +42,11 @@ Given an array of integers, returns a new array with the smallest value removed.
 Returns `true` if given a valid [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm) number.
 
 
+## Integer: Circle of numbers - integer-circle-of-numbers.js
+
+Given two integers representing a circle of equidistant points and a starting point, returns the point opposite the starting point.
+
+
 ## Integer: Delete digit - integer-delete-digit.js
 
 Given an input integer, returns the largest possible integer that can be made by deleting a single digit.
