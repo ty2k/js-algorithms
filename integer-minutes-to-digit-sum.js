@@ -9,7 +9,7 @@ function minutesToDigitSum(n) {
   let sum = 0
   
   digits.forEach((digit) => {
-      sum += parseInt(digit)
+    sum += parseInt(digit)
   })
   
   return sum
