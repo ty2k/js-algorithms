@@ -67,6 +67,11 @@ Returns the [factorial](https://en.wikipedia.org/wiki/Factorial) if given a non-
 Given an integer representing the number of minutes since midnight, returns the sum of the equivalent digits on a 24 hour clock.
 
 
+## Integer: Phone call minutes - integer-phone-call-minutes.js
+
+Given a budget and phone call price schedule, returns the maximum number of whole minutes of calling available.
+
+
 ## Integer: Spiral numbers - integer-spiral-numbers.js
 
 Given an integer `n`, returns a two-dimensional array representing an matrix of size `n * n` filled with integers counting up from 1 in a spiral design, starting from the top left corner and spiraling in clockwise. From [CodeFights Arcade 59](https://app.codesignal.com/arcade).
