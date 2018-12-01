@@ -32,6 +32,11 @@ Given an array of desired filenames in the order in which they are to be saved, 
 Given an array of mixed types, returns a new array with only numbers.
 
 
+## Array: Range bit count - array-range-bit-count.js
+
+Given `a` and `b` where `0 <= a <= b`, returns a count of the 1's in the binary representations of the integers from `a` to `b`. From From [CodeFights Arcade Core 19](https://app.codesignal.com/arcade)
+
+
 ## Array: Remove smallest value - array-remove-smallest.js
 
 Given an array of integers, returns a new array with the smallest value removed.
