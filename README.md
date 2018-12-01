@@ -32,9 +32,14 @@ Given an array of desired filenames in the order in which they are to be saved, 
 Given an array of mixed types, returns a new array with only numbers.
 
 
+## Array: Packing bianries - array-packing-binaries.js
+
+Given an array of up to four non-negative input integers, returns a number representing the binary values of the input numbers concatenated together. From [CodeFights Arcade Core 18](https://app.codesignal.com/arcade)
+
+
 ## Array: Range bit count - array-range-bit-count.js
 
-Given `a` and `b` where `0 <= a <= b`, returns a count of the 1's in the binary representations of the integers from `a` to `b`. From From [CodeFights Arcade Core 19](https://app.codesignal.com/arcade)
+Given `a` and `b` where `0 <= a <= b`, returns a count of the 1's in the binary representations of the integers from `a` to `b`. From [CodeFights Arcade Core 19](https://app.codesignal.com/arcade)
 
 
 ## Array: Remove smallest value - array-remove-smallest.js
