@@ -10,7 +10,7 @@ function testRangeBitCount() {
     [[9, 10], 4]
   ]
 
-  console.log('\nrangeBitCount() should return the number of potential winners of an election, given an array of candidate votes and the number of outstanding uncounted votes. A tie results in no winner.\n')
+  console.log('\nrangeBitCount() should return the number of occurences of the digit 1 in a number representing the binary values in the range of integers formed by the upper and lower bound provided as input.\n')
 
   testCases.forEach((test) => {
     console.log(`Expect rangeBitCount(${test[0][0]}, ${test[0][1]}) to return ${test[1]}.`)
