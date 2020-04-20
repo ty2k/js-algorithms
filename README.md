@@ -34,12 +34,12 @@ Given an array of mixed types, returns a new array with only numbers.
 
 ## Array: Packing bianries - array-packing-binaries.js
 
-Given an array of up to four non-negative input integers, returns a number representing the binary values of the input numbers concatenated together. From [CodeFights Arcade Core 18](https://app.codesignal.com/arcade)
+Given an array of up to four non-negative input integers, returns a number representing the binary values of the input numbers concatenated together. From [CodeFights Arcade Core 18](https://app.codesignal.com/arcade).
 
 
 ## Array: Range bit count - array-range-bit-count.js
 
-Given `a` and `b` where `0 <= a <= b`, returns a count of the 1's in the binary representations of the integers from `a` to `b`. From [CodeFights Arcade Core 19](https://app.codesignal.com/arcade)
+Given `a` and `b` where `0 <= a <= b`, returns a count of the 1's in the binary representations of the integers from `a` to `b`. From [CodeFights Arcade Core 19](https://app.codesignal.com/arcade).
 
 
 ## Array: Remove smallest value - array-remove-smallest.js
@@ -124,7 +124,7 @@ Returns `true` if given a string that's a valid [palindrome](https://en.wikipedi
 
 ## String: Chess knight - string-chess-knight.js
 
-Given a knight's position on a chess board in chess notation, returns the number of possible moves it can make. From [CodeFights Arcade 50](https://app.codesignal.com/arcade)
+Given a knight's position on a chess board in chess notation, returns the number of possible moves it can make. From [CodeFights Arcade 50](https://app.codesignal.com/arcade).
 
 
 ## String: Find email domain - string-find-email-domain.js
@@ -155,6 +155,11 @@ Given an input string of binary, returns a translated string of plain text ASCII
 ## String: Reverse - string-reverse.js
 
 Given an input string, returns the string reverse using the array split/reverse/join method.
+
+
+## String: Reverse in parentheses - string-reverse-in-parentheses.js
+
+Given an input string with possibly-nested parentheses pairs, return a string with the characters in parens reversed. From [CodeFights Arcade 13](https://app.codesignal.com/arcade).
 
 
 ## String: Sum up numbers - string-sum-up-numbers.js
